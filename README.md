@@ -44,7 +44,7 @@ Tabelele se creeaza automat la prima rulare, daca nu exista deja.
 ## Cum il pornesti
 
 1. Clonezi repo-ul:
-   git clone https://github.com/<utilizator>/<repo>.git
+   git clone https://github.com/augustinbuzatu/CasaSchimbValutar.git
   
 2. Deschizi *CasaSchimbValutar.sln* in Visual Studio.
 3. Apesi F5. La prima pornire aplicatia isi creeaza singura baza de date si tabelele.
