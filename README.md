@@ -1,4 +1,4 @@
-# Casa de Schimb Valutar
+# Currency Exchange Management System
 
 Aplicatie desktop in Windows Forms pentru o casa de schimb valutar: tine evidenta valutelor, a cursurilor zilnice si a tranzactiilor de cumparare/vanzare.
 
